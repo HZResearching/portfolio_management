@@ -6,4 +6,4 @@ It showcases sample code that applies mathematical models and programming techni
 
 Note: As with any technology-driven approach, results are only as good as the input data and assumptions. Use with care and critical judgment.
 
-Also note: This repository does not include any code related to proprietary signals or trading strategies.
+Also note: This repository does not include any code related to proprietary trading signals or investment strategies.
